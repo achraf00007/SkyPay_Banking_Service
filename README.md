@@ -6,3 +6,16 @@
 <h3>🧪 Test d'acceptation <strong>JUnit</strong></h3>
 <img width="600px" src="https://github.com/user-attachments/assets/7520feae-89cf-4b33-8045-f2e2cf430b0f" alt="Test JUnit Résultat" />
 
+<h3>🚀 Commandes utiles</h3>
+
+<p>Assure-toi d’avoir <strong>Java 21</strong> et <strong>Maven</strong> installés.</p>
+
+```bash
+# 🔧 Compiler le projet
+mvn compile
+
+# ▶️ Exécuter le programme principal
+mvn exec:java
+
+# ✅ Lancer tous les tests JUnit
+mvn test
